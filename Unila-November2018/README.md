@@ -1,3 +1,3 @@
-# Kuliah Umum: Penerapan Machine Learning pada Bidang Bioinformatika
+# General Lecture: Machine Learning Implementation in Bioinformatics
 
-# Workshop: Microsoft Azure Machine Learning
+# Workshop: Microsoft Azure Machine Learning Studio
